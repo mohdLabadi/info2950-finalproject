@@ -5,7 +5,7 @@ Wassan Nasreddin <wn66@cornell.edu>
 Mohammad Al-Labadi <maa366@cornell.edu>
 
 
-#Introduction:
+# Introduction:
 Sometimes, a good movie becomes successful due to unusual factors that people resonated with. For some movie makers focusing on the story telling and the actual movie is as important as these "unusual factors" and for others these are just a mere choice that wouldnt matter in the movie market. Some of these factors include the expected earnings of a movie, a movie's length (to avoid losing the audience’s attention), advertising strategies. While individual preferences may vary, it’s interesting to analyze whether audiences have preferences on factors like these that influence their movie choices and the factors that contribute to their movie selections.
 
 This project will utilize one of the largest publicly available movie datasets, the IMDb public non-commercial dataset, to explore the relationship between these factors. The dataset, which is regularly updated, contains information on over 9 million titles, including feature films, short films, TV shows, web series, and video games. Its extensive scope provides a comprehensive foundation for conducting thorough and insightful research.
